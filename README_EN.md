@@ -16,7 +16,7 @@
   🌍 <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
 </p>
 
-###  🚀 Project Overview
+### 🚀 Project Overview
 
 **AUAK AGENTY** is an AI-driven mobile agent system powered by a Firebase cloud backend.  
 It allows **vision-based or LLM models** to autonomously operate Android apps by calling low-level **window and UI control functions** on the device.
@@ -72,8 +72,6 @@ This app uses **Shizuku** to obtain elevated permissions for system-level contro
 * 🔑 Custom AI API proxy & key configuration
 
 * 🛡️ Secure permission handling via Shizuku
-
-* * *
 
 * * *
 
