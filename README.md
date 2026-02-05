@@ -1,12 +1,16 @@
 📱 AUAK AGENTY
 ==============
 
-**基于 AI 的手机自动化智能体系统**
+**基于 AI 的手机自动化智能体系统** 
 
-* * *
+***
 
 <p align="center">
   <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
+</p>
+
+<p align="center">
+  🌍 <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
 </p>
 
 ### 🚀 项目简介

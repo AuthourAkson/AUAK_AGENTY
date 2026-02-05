@@ -12,7 +12,11 @@
   <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
 </p>
 
-### 🚀 Project Overview
+<p align="center">
+  🌍 <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
+</p>
+
+###  🚀 Project Overview
 
 **AUAK AGENTY** is an AI-driven mobile agent system powered by a Firebase cloud backend.  
 It allows **vision-based or LLM models** to autonomously operate Android apps by calling low-level **window and UI control functions** on the device.
