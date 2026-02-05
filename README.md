@@ -5,7 +5,9 @@
 
 * * *
 
-                                 ![Main Interface](app/src/main/res/drawable/splash_icon.png)
+    <p align="center">
+      <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200" align="center"/>
+    </p>
 
 ### 🚀 项目简介
 
@@ -78,5 +80,3 @@
 * Shizuku
 
 * AI API 代理系统
-
-

@@ -8,7 +8,9 @@
 🌍 English Version
 ------------------
 
-                                       ![Main Interface](app/src/main/res/drawable/splash_icon.png)
+    !<p align="center">
+      <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
+    </p>
 
 ### 🚀 Project Overview
 
