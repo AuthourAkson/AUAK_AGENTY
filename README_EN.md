@@ -8,9 +8,9 @@
 🌍 English Version
 ------------------
 
-    !<p align="center">
-      <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
-    </p>
+<p align="center">
+  <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
+</p>
 
 ### 🚀 Project Overview
 

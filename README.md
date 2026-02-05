@@ -5,9 +5,9 @@
 
 * * *
 
-    <p align="center">
-      <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200" align="center"/>
-    </p>
+<p align="center">
+  <img src="app/src/main/res/drawable/splash_icon.png" alt="Main Interface" width="200"/>
+</p>
 
 ### 🚀 项目简介
 
